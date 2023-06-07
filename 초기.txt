@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>초기페이지</title>
+    <style>
+        .font_left { text-align: left; }
+        .font_right { text-align: right; }
+        .font_big { font-size:large; }
+    </style>
+    <style>
+        .font_Arial { font-family: Arial; }
+    </style>
+</head>
+<body>
+    <p class="font_left font_big"><a href="이력서 합본.html">이력서</a></p>
+    <p class="font_right font_big"><a href="회원가입 페이지.html">회원가입</a><br></p>
+    <style>
+        body {
+            background-image: url('bg04.jpg');
+        }
+    </style>
+    <h6 class="font_Arial">빅데이터과 2302587 전지원</p>
+</body>
+</html>
